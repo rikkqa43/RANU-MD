@@ -1,2 +1,1 @@
-# RANU-MD
-RANU-MD
+# Podda-MD
